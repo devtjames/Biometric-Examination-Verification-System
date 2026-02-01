@@ -69,10 +69,6 @@ This project addresses these issues by using fingerprint-based verification tied
 <img width="438" height="475" alt="image" src="https://github.com/user-attachments/assets/8796163f-343c-4c1e-8e64-aa023c264d12" />
 
 
-### Examination Attendance Report
-<img width="645" height="453" alt="image" src="https://github.com/user-attachments/assets/f8f316d4-06f5-4795-b385-62c5fdbf8923" />
-
-
 ### Student Biometric Capture
 <img width="856" height="483" alt="image" src="https://github.com/user-attachments/assets/1e1eea89-290a-466c-a579-850c48df7cee" />
 
@@ -85,8 +81,7 @@ This project addresses these issues by using fingerprint-based verification tied
 <img width="425" height="334" alt="image" src="https://github.com/user-attachments/assets/47cfbcb7-340c-4156-8c99-3d3545831108" />
 
 
-
-### Examination Report
+### Attendance Report
 <img width="645" height="414" alt="image" src="https://github.com/user-attachments/assets/d195927c-59fb-4575-9f99-8fd071906eee" />
 
 
